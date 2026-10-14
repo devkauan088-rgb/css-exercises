@@ -1,4 +1,5 @@
 .button {
+<<<<<<< HEAD
     font-size: 28px;
     font-family: 'sans-serif', 'Times New Roman', 'Helvetica';
 }
@@ -11,3 +12,13 @@
 #second.button {
     background-color: yellow;
 }
+
+#first.button {
+  background-color: black;
+  color: white;
+}
+
+#second.button {
+  background-color: yellow;
+}
+>>>>>>> 8f14251 (solved the third exercise - CSS, grouping selectors)
