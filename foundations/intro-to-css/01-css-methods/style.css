@@ -1,7 +1,16 @@
 div {
+<<<<<<< HEAD
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
 }
+=======
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+>>>>>>> bdb03ac (finished ex05 and edited ex01)
